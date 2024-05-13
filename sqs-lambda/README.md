@@ -19,6 +19,12 @@ Start LocalStack with the following command:
 DEBUG=1 localstack start
 ```
 
+You can follow the instructions below or run the whole sample using the provided `run.sh` script.
+
+```bash
+./run.sh
+```
+
 ## Create the Lambda function
 
 Open a terminal and provide the following `AWS_ACCOUNT_ID` and `AWS_SECRET_ACCESS_KEY` environment variables:
