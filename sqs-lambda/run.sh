@@ -1,3 +1,5 @@
+#!/bin/bash
+
 export AWS_SECRET_ACCESS_KEY=test
 
 # Terminal 1
